@@ -1,5 +1,5 @@
 /*Student: Paula Alejandra Navarro Jaimes
-  Abstract: Launcher for all 30 exercises.*/
+  Abstract: Launcher for all 30 exercises*/
 
 package Thirty;
 
